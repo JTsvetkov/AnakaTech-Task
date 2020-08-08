@@ -1,0 +1,56 @@
+.info{
+    margin-top: -10px;
+    display: block;
+}
+body{
+    background-color: #326cb8
+}
+p{
+    display: inline-block;
+    width: 70%;
+    height: 45px;
+    margin-right: 10%;
+    border: 2px solid gray;
+    border-radius: 4px;
+    padding-left: 5px;
+    padding-top: -4px;
+}
+
+.currencySpan{
+    height: 35px;
+    background-color: cadetblue;
+    margin-top: 16px;
+    width: 20%;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    border: 2px solid gray;
+    border-radius: 4px;
+    
+
+}
+
+.currencyContainer{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+  
+
+}
+
+.mainContainer{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 1px;
+    box-shadow: -2px -4px 32px -10px rgba(0,0,0,0.75);
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
